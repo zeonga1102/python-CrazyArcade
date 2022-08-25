@@ -4,7 +4,7 @@
 releases에 실행파일 올려두었습니다.
 
 # 🕹Intro
-* 온라인 게임 \<Crazy Arcade\>를 Python과 Pygame 라이브러리를 이용해서 간단하게 구현
+* 온라인 게임 \<Crazy Arcade\>를 Python과 ygame 라이브러리를 이용해서 간단하게 구현
 
 ![image](https://user-images.githubusercontent.com/71905164/186721918-4d772f6b-d1be-4ecd-b95a-7cb216d098d7.png)
 * 방향키와 스페이스바로 조작, 1인 플레이
