@@ -1,11 +1,17 @@
-# python-CrazyArcade
+# 🎮Python Crazy Arcade
 파이썬으로 만든 간단한 크레이지 아케이드 게임입니다.<br>
 기본적으로 방향키, 스페이스바로 조작합니다.<br>
-releases에 실행파일 올려두었습니다.<br>
+releases에 실행파일 올려두었습니다.
 
-<br><br>
+# 🕹Intro
+* 온라인 게임 \<Crazy Arcade\>를 Python과 Pygame 라이브러리를 이용해서 간단하게 구현
 
-# 게임 설명
+![image](https://user-images.githubusercontent.com/71905164/186721918-4d772f6b-d1be-4ecd-b95a-7cb216d098d7.png)
+* 방향키와 스페이스바로 조작, 1인 플레이
+* **개발 기간**: 2022.04.25 ~ 2022.04.27
+* **개발 인원(1명)**: 이정아 개인 프로젝트
+
+# ❔게임 설명
 ### 게임 실행 영상
 https://user-images.githubusercontent.com/71905164/166135519-0752fd2f-0560-4ce6-b09b-2be6e017d9e4.mp4
 
@@ -30,15 +36,11 @@ https://user-images.githubusercontent.com/71905164/166135519-0752fd2f-0560-4ce6-
 ### 자세한 사항은 아래 블로그 링크 참고해주세요!
 https://cold-charcoal.tistory.com/46
 
-<br><br>
-
 # 소스 출처
-<a href='https://www.freepik.com/photos/grass-pattern'>Grass pattern photo created by kdekiara - www.freepik.com</a>
-
-✔ Balloon Popping Sound by Mike Koenig<br>
+* <a href='https://www.freepik.com/photos/grass-pattern'>Grass pattern photo created by kdekiara - www.freepik.com</a>
+* ✔ Balloon Popping Sound by Mike Koenig<br>
 ✔ From<br>
 http://soundbible.com/1522-Balloon-Popping.html <br>
 ✔ Distributor <br>
 ‘대한민국 대표 BGM 셀바이뮤직’ https://www.sellbuymusic.com<br>
-<br>
-배경 제외한 이미지 파일은 자체 제작입니다.
+* 배경 제외한 이미지 파일은 자체 제작입니다.
